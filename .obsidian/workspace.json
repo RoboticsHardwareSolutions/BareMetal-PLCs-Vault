@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "c9fad6f8c7a78f38",
+    "type": "split",
+    "children": [
+      {
+        "id": "e67f253e872a53fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aac7550c34992b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BareMetal PLC XL/BareMetal PLC XL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3b8e792934cfd45",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f0a5a2ee691ebc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573371c56bf3c2db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fcb53fb5fa12829",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2080a2deb1b6eea1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "201f199b55193612",
+    "type": "split",
+    "children": [
+      {
+        "id": "35051435848cb9ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7792f1fa7fe96ab1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BareMetal PLC XL/BareMetal PLC XL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dcb28a8b2b59e55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BareMetal PLC XL/BareMetal PLC XL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67ce19e6fc6c6433",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ad667eb7a51a62b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BareMetal PLC XL/BareMetal PLC XL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "658ddd6b08e0e988",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a5b0756128fdc9eb",
+        "type": "window",
+        "children": [
+          {
+            "id": "41ace9a2ac46a848",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a1132f4d61d46954",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BareMetal PLC XL/BareMetal PLC XL.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 285,
+        "y": 431,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a1132f4d61d46954",
+  "lastOpenFiles": [
+    "docs/BareMetal PLC XL/BareMetal PLC XL.html",
+    "docs/BareMetal PLC XL",
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/lib/rss.xml",
+    "docs/lib/fonts",
+    "docs/lib",
+    "BareMetal PLC XL/BareMetal PLC XL.md",
+    "docs",
+    "BareMetal PLC XL"
+  ]
+}

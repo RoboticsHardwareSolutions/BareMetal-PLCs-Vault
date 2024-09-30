@@ -1,0 +1,9 @@
+[submodule "BareMetal-PLC-M"]
+	path = BareMetal-PLC-M
+	url = https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-M.git
+[submodule "BareMetal-PLC-XL"]
+	path = BareMetal-PLC-XL
+	url = https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL.git
+[submodule "BareMetal-PLC-L"]
+	path = BareMetal-PLC-L
+	url = https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-L.git
