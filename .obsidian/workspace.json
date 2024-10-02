@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About BareMetal PLC's.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About BareMetal PLC's.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About BareMetal PLC's.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About BareMetal PLC's.md"
+                "file": "index.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "c4614195e3c32299",
   "lastOpenFiles": [
+    "docs/index.html",
+    "index.md",
     "docs/lib/rss.xml",
-    "About BareMetal PLC's.md",
     "BareMetal PLC XL.md",
     "docs/lib/search-index.json",
     "docs/lib/metadata.json",
@@ -163,7 +164,6 @@
     "docs/lib/styles",
     "docs/lib/scripts/graph-data.js",
     "docs/lib/scripts/minisearch.js",
-    "docs/lib/scripts/pixi.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/874d8b8e340f75575caa.svg",
     "docs/baremetal-plc-xl/doc/pinout/pinout.png",
