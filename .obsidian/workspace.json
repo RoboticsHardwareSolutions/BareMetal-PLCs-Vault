@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "BareMetal PLC XL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "BareMetal PLC XL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "BareMetal PLC XL.md"
               }
             }
           }
@@ -149,15 +149,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c4614195e3c32299",
+  "floating": {
+    "id": "658ddd6b08e0e988",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7604ed101570f239",
+        "type": "window",
+        "children": [
+          {
+            "id": "d7dbb7d6f1e7987c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "adb3ed5a592ae218",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BareMetal PLC XL.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 285,
+        "y": 431,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "adb3ed5a592ae218",
   "lastOpenFiles": [
+    "BareMetal PLC M.md",
+    "BareMetal PLC L.md",
+    "index.md",
     "docs/baremetal-plc-xl.html",
     "docs/baremetal-plc-m.html",
     "docs/baremetal-plc-l.html",
     "BareMetal PLC XL.md",
-    "BareMetal PLC M.md",
-    "BareMetal PLC L.md",
-    "index.md",
     "docs/index.html",
     "docs/lib/rss.xml",
     "docs/lib/search-index.json",
@@ -165,7 +202,6 @@
     "docs/lib/styles/other-plugins.css",
     "docs/lib/styles/obsidian.css",
     "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/global-variable-styles.css",
     "docs/lib/media/favicon.png",
     "docs/lib/media/874d8b8e340f75575caa.svg",
     "docs/baremetal-plc-xl/doc/pinout/pinout.png",
