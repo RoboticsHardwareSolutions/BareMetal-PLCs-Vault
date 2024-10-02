@@ -1,3 +1,8 @@
+## Devices 
+
+- [[BareMetal PLC M]]
+- [[BareMetal PLC L]]
+- [[BareMetal PLC XL]]
 ## Overview
 
 Bare-metal PLC's Controllers has various powerful features and can service a wide range of applications. Software programming, and commissioning are achieved with the Cmake and C++ languages. To speed up development, you can use the **RLibs** from [here](https://github.com/RoboticsHardwareSolutions/.github/tree/main/profile#rlibs) . **RLibs** are libraries that provide a higher level of abstraction than HAL (Hardware Abstraction Layers). **Rlibs** it is PAL (Platform Abstraction Layer), they solve the most common problems when programming automation, robots, and more. 
@@ -22,5 +27,6 @@ You can also use the following IDEs:
 - Clion - [link](https://www.jetbrains.com/clion/)
 - VSCode - [link](https://code.visualstudio.com)
 - CubeIDE - [link](https://www.st.com/en/development-tools/stm32cubeide.html)
+
 
 

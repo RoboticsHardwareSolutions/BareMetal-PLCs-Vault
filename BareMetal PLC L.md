@@ -24,4 +24,11 @@ Bare-metal PLC L Controller has various powerful features and can service a wide
 
 ![[BareMetal-PLC-L/doc/pinout/pinout.png]]
 
+### Dimensions
+
+
+![[Чертеж.bmp]]
+
+ 3D model in .stp [here](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-L-assembly/blob/main/doc/assembly.stp)
 ### Functional Diagram
+

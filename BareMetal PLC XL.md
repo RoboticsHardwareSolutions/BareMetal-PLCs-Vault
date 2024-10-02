@@ -24,4 +24,16 @@ Bare-metal PLC XL Controller has various powerful features and can service a wid
 
 ![[BareMetal-PLC-XL/doc/pinout/pinout.png]]
 
+
+### Dimensions
+
+
+![[Чертеж.bmp]]
+
+
+
+ 3D model in .stp [here](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL-assembly/blob/main/doc/assembly.stp)
+
 ### Functional Diagram
+
+![[BareMetal PLC XL 2024-10-02 16.49.28.excalidraw|800]]
