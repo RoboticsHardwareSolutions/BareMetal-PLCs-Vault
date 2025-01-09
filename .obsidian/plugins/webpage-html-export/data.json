@@ -45,6 +45,11 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/Users/doc/projects/rhs/BareMetal-PLCs-Vault/docs",
   "filesToExport": [
-    []
+    [
+      "BareMetal PLC L.md",
+      "BareMetal PLC M.md",
+      "BareMetal PLC XL.md",
+      "index.md"
+    ]
   ]
 }

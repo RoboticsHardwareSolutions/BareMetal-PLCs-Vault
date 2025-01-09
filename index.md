@@ -29,5 +29,8 @@ You can also use the following IDEs:
 - VSCode - [link](https://code.visualstudio.com)
 - CubeIDE - [link](https://www.st.com/en/development-tools/stm32cubeide.html)
 
+All BareMetal PLC supports **RLibs**:
+
+
 
 
