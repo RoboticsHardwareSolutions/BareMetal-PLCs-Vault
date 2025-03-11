@@ -31,6 +31,26 @@ You can also use the following IDEs:
 
 All BareMetal PLC supports **RLibs**:
 
+## Quick Start Guide 
 
+### Installation
+#### Installation Windows 
 
+1) Download and install Visual Studio Code - [Visual Studio Code](https://code.visualstudio.com/)
+2) Download and install Github Desktop - [link](https://desktop.github.com/download/)
+or:
+2) Download and install Git and Enable SSH on Github:
+- [Git - Downloads](https://git-scm.com/downloads???windows)  [YouTube Man RU](https://youtu.be/GsG5roSGha0?si=gLXZ9XRwuIu_4bxO)[YouTube Man EN](https://youtu.be/iYkLrXobBbA?si=cfZSbxH9yn8IQFo-)
+- Generating a new SSH key and adding it to the ssh-agent - [Github Man](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows)
+- Auto-launching `ssh-agent` on Git for Windows [Github Man](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases#auto-launching-ssh-agent-on-git-for-windows)
+- Perhaps this link will also be useful - [Installing OpenSSH Server on Windows 11](https://gbeifuss.github.io/p/installing-openssh-server-on-windows-11/)
+- Download and install SourceTree - [link](https://www.sourcetreeapp.com/)
+- Add in SourceTree App your Github account and add your SSH key 
 
+#### Installation Mac 
+
+#### Installation Linux 
+
+### VSCode settings
+
+1) Install  Extension - [link](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension)
