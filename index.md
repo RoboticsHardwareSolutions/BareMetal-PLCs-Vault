@@ -48,9 +48,76 @@ or:
 - Add in SourceTree App your Github account and add your SSH key 
 
 #### Installation Mac 
+1) `$ brew install git`
+2) `$ brew install cmake`
+3) `$ brew install homebrew/cask/gcc-arm-embedded` - install **GCC ARM Embedded** 
+4) Download and install Visual Studio Code - [Visual Studio Code](https://code.visualstudio.com/)
 
 #### Installation Linux 
+---
 
-### VSCode settings
+### VSCode Setup for BareMetal PLC Development
 
-1) Install  Extension - [link](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension)
+#### 1) Recommended Extensions
+
+The `.vscode/extensions.json` file provides automatic tool recommendations when opening the project:
+
+```json
+{
+	"recommendations": [
+		"ms-python.black-formatter",  // Python formatter
+		"amiralizadeh9480.cpp-helper",  // C++ assistance
+		"marus25.cortex-debug",  // ARM Cortex debugging
+		"mcu-debug.rtos-views",  // RTOS visualization
+		"twxs.cmake",  // CMake language support
+		"ms-vscode.cmake-tools",  // CMake integration
+		"zixuanwang.link"  // Symbolic link helper
+	],
+	"unwantedRecommendations": [
+		"ms-vscode.cpptools",  // Conflicts with cortex-debug
+		"llvm-vs-code-extensions.vscode-clangd"  // Alternative C++ extension
+	]
+}
+```
+
+#### 2) Debug Configuration
+
+The `.vscode/launch.json` is automatically generated during build via CMake. The template is located in:
+- [rhs_core/launch.json.in](https://github.com/RoboticsHardwareSolutions/RHS-BareMetalCore/blob/main/launch.json.in)
+
+> **Note**: Requires Cortex-Debug extension for ARM microcontroller debugging.
+
+---
+### Project Setup Guide
+
+#### Option 1: Basic Clone (For End Users)
+```sh
+git clone https://github.com/RoboticsHardwareSolutions/RPLC_Quick_Project
+cd RPLC_Quick_Project
+git submodule update --init --recursive
+```
+#### Option 2: Fork & Clone (For Contributors)
+
+1. Fork the repository:
+    - Navigate to [RPLC_Quick_Project](https://github.com/RoboticsHardwareSolutions/RPLC_Quick_Project)
+    - Click "Fork" (creates `github.com/your-username/RPLC_Quick_Project`)
+2. Clone your fork:
+```sh
+git clone https://github.com/your-username/RPLC_Quick_Project
+cd RPLC_Quick_Project
+git submodule update --init --recursive
+git remote add upstream https://github.com/RoboticsHardwareSolutions/RPLC_Quick_Project
+```
+#### Hardware Target Selection
+In `CMakeLists.txt`, specify your PLC model by uncommenting one of:
+```cmake
+set(RPLC_M)  # Basic model
+# set(RPLC_L)  # Intermediate model
+# set(RPLC_XL)  # Advanced model
+```
+
+This automatically configures:
+- Compiler flags
+- Peripheral libraries
+- Memory mapping
+- Hardware-specific drivers
