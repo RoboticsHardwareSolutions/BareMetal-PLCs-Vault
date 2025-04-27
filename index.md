@@ -54,6 +54,8 @@ or:
 4) Download and install Visual Studio Code - [Visual Studio Code](https://code.visualstudio.com/)
 
 #### Installation Linux 
+1) in process ...  
+
 ---
 
 ### VSCode Setup for BareMetal PLC Development
@@ -92,7 +94,7 @@ The `.vscode/launch.json` is automatically generated during build via CMake. T
 
 #### Option 1: Basic Clone (For End Users)
 ```sh
-git clone https://github.com/RoboticsHardwareSolutions/RPLC_Quick_Project
+git clone  https://github.com/RoboticsHardwareSolutions/RPLC_Quick_Project
 cd RPLC_Quick_Project
 git submodule update --init --recursive
 ```
