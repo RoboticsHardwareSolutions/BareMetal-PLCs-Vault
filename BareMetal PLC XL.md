@@ -14,7 +14,7 @@ Bare-metal PLC XL Controller has various powerful features and can service a wid
 - SRAM: 512 Kbytes 
 - 1 Mbytes of MCU flash memory + Quad SPI 16 Mbytes memory 
 - Ethernet port (Fast Ethernet)
-- 5 Relay outputs (65V  5A) 
+- 5 Relay outputs 55V  1.5A ( Max switch frequency 3Hz )
 - 5 Discret Outputs (12-24V 70mA)
 - 5 Discret Inputs  
 - CAN Bus 
