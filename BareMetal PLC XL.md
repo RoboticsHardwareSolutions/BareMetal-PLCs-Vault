@@ -20,6 +20,10 @@ Bare-metal PLC XL Controller has various powerful features and can service a wid
 - CAN Bus 
 - RS485 
 - RS232
+
+### Functional Diagram
+
+![[BareMetal PLC XL 2024-10-02 16.49.28.excalidraw|800]]
 ### Pinout and symbols 
 
 ![[BareMetal-PLC-XL/doc/pinout/pinout.png]]
@@ -28,12 +32,12 @@ Bare-metal PLC XL Controller has various powerful features and can service a wid
 ### Dimensions
 
 
-![[Чертеж.bmp]]
 
+![[Screenshot 2025-08-04 at 22.23.22.png]]
+![[Screenshot 2025-08-04 at 22.24.19.png]]
+![[Screenshot 2025-08-04 at 22.25.24.png]]
 
-
+ 
  3D model in .stp [here](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL-assembly/blob/main/doc/assembly.stp)
 
-### Functional Diagram
 
-![[BareMetal PLC XL 2024-10-02 16.49.28.excalidraw|800]]

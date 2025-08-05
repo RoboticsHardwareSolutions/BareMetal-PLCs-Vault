@@ -22,17 +22,20 @@ BareMetal PLC M Controller has various powerful features and can service a wide 
 - RS232
 - RS422
 - USB Device
+
+### Functional Diagram
+
+![[BareMetal PLC L 2024-10-01 22.33.12.excalidraw|800]]
 ### Pinout and symbols 
 
 ![[BareMetal-PLC-M/doc/pinout/pinout.png]]
 
 
 ### Dimensions
+![[Screenshot 2025-08-05 at 22.21.13.png]]
 
+![[Screenshot 2025-08-05 at 22.21.29.png]]
+![[Screenshot 2025-08-05 at 22.21.38.png]]
 
-![[Чертеж.bmp]]
 
  3D model in .stp [here](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-L-assembly/blob/main/doc/assembly.stp)
-### Functional Diagram
-
-![[BareMetal PLC L 2024-10-01 22.33.12.excalidraw|800]]
