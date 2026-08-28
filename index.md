@@ -2,7 +2,6 @@
 ## Devices 
 
 - [[BareMetal PLC M]]
-- [[BareMetal PLC L]]
 - [[BareMetal PLC XL]]
 ## Overview
 
@@ -114,7 +113,6 @@ git remote add upstream https://github.com/RoboticsHardwareSolutions/RPLC_Quick_
 In `CMakeLists.txt`, specify your PLC model by uncommenting one of:
 ```cmake
 set(RPLC_M)  # Basic model
-# set(RPLC_L)  # Intermediate model
 # set(RPLC_XL)  # Advanced model
 ```
 

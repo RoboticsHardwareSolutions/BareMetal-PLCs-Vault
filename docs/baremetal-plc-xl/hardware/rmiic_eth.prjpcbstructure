@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=connections.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=dcdc.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=eth.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=interfaces.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=mcu.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=qspi_flash.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=rlink_eth.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=usb.SchDoc|SheetNumber={}

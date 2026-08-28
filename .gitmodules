@@ -8,3 +8,6 @@
 	path = BareMetal-PLC-XL-assembly
 	url = git@github.com:RoboticsHardwareSolutions/BareMetal-PLC-XL-assembly.git
 
+[submodule "BareMetal-PLC-M-assembly"]
+	path = BareMetal-PLC-M-assembly
+	url = git@github.com:RoboticsHardwareSolutions/BareMetal-PLC-M-assembly.git

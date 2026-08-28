@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\a.nikitin.KFT\Desktop\BareMetal-PLC-XL\hardware\pcb.pcbdoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Via|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width_UART|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_SWD|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_QSPI|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_eth|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

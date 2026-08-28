@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=connections.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=dcdc.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=interfaces.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=rlink.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=connections.schdoc|FileName=usb.SchDoc|SheetNumber={}
